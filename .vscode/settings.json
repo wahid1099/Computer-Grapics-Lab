@@ -17,5 +17,6 @@
   "files.associations": {
     "*.dbclient-js": "javascript",
     "cmath": "cpp"
-  }
+  },
+  "kiroAgent.configureMCP": "Disabled"
 }
