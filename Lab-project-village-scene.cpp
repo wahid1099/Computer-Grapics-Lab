@@ -567,7 +567,7 @@ void display() {
     drawSimpleBird(600, 580, birdFlap + 2.0f);
     drawSimpleBird(800, 610, birdFlap + 0.5f);
 
-    drawButterfly();
+    // drawButterfly();
     drawUI();
 
     glutSwapBuffers();
